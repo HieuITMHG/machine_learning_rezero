@@ -1,2 +1,2 @@
 # machine_learning_rezero
-I come up this project when i got bored
+A fun side project born out of boredom
